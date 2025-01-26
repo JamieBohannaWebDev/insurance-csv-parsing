@@ -1,6 +1,14 @@
 # Broker Insights
 
-Hey there! This is a simple project that parses and normalizes CSV data for different insurance brokers.
+Hey there! This is a project that parses and normalizes CSV data for different insurance brokers.
+
+This was a bit of a tricky project, but I'm happy with the result. I hope you like it!
+
+This project uses Node.js and the following dependencies:
+
+- **[csv-parser](https://www.npmjs.com/package/csv-parser)**: A CSV parsing library that we use to read the CSV files.
+- **[jest](https://www.npmjs.com/package/jest)**: A testing library that we use to write our tests.
+- **[chalk](https://www.npmjs.com/package/chalk)**: A library that we use to add some color to our console output.
 
 ## Prerequisites
 
