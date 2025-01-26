@@ -1,4 +1,4 @@
-# Broker Insights
+# B2B Insurance CSV Parsing
 
 Hey there! This is a project that parses and normalizes CSV data for different insurance brokers.
 
@@ -17,20 +17,24 @@ This project uses Node.js and the following dependencies:
 
 ## Installation
 
-1. **Clone this repo** or [download it](https://github.com/JamieBohannaWebDev/broker-insights).
+1. **Clone this repo** or [download it](https://github.com/JamieBohannaWebDev/insurance-csv-parsing).
+
    ```bash
-   git clone https://github.com/JamieBohannaWebDev/broker-insights.git
+   git clone https://github.com/JamieBohannaWebDev/insurance-csv-parsing.git
    cd broker-insights
 
 2. **Install dependencies**
+
    ```bash
    npm install
 
 3. **Run the project**
+
    ```bash
    node src/index.js
 
 4. **Run the tests**
+
    ```bash
    npm test
    npm run coverage
