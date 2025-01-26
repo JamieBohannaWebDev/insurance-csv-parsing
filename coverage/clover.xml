@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<coverage generated="1737912826332" clover="3.2.0">
-  <project timestamp="1737912826332" name="All files">
+<coverage generated="1737913320100" clover="3.2.0">
+  <project timestamp="1737913320100" name="All files">
     <metrics statements="55" coveredstatements="40" conditionals="51" coveredconditionals="48" methods="18" coveredmethods="15" elements="124" coveredelements="103" complexity="0" loc="55" ncloc="55" packages="1" files="2" classes="2"/>
     <file name="aggregator.js" path="/home/jamiebohanna/broker-insights/src/aggregator.js">
       <metrics statements="21" coveredstatements="18" conditionals="40" coveredconditionals="40" methods="8" coveredmethods="7"/>
